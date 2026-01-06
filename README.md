@@ -1,5 +1,11 @@
 # INTEGRATION-WITH-PYTHON-AND-R
 
+COMPANY-CODTECH IT SOLUTIONS
+NAME-GARIMA SINGH
+INTERN ID-CT04DR3113
+DOMAIN-POWER BI
+DURATION-4 WEEKS
+MENTOR-NEELA SANTOSH
 
 Project Overview
 
@@ -96,4 +102,7 @@ You can confidently showcase this project on:
 ✅ Resume (Data Analyst / Power BI / Data Scientist roles)
 ✅ LinkedIn Projects Section
 ✅ Academic & Certification Submissions
-✅ Interview Case Studies
+✅ Interview Case StudieS
+
+OUTPUT-
+<img width="1299" height="911" alt="Image" src="https://github.com/user-attachments/assets/69cc0bf4-e00d-4458-a54d-b2cf513796df" />
